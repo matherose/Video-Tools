@@ -1,0 +1,6 @@
+[submodule "Video-Tools"]
+	path = Video-Tools
+	url = https://github.com/matherose/Video-Tools.git
+[submodule "AV1-Saver"]
+	path = AV1-Saver
+	url = https://github.com/matherose/AV1-Saver.git
